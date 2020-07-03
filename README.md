@@ -8,5 +8,6 @@ Steps to upload the assignment file
  
  # To get the Current Working Directory of Jupyter notebook
  import os
+ 
  os.getcwd()
  ##this will show you the cwd path
