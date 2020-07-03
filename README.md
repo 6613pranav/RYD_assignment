@@ -13,3 +13,5 @@ Steps to upload the assignment file
  ##this will show you the cwd path
  
  Note : if you are unable to open the ipynb file then please check the PDF file 
+ 
+ https://www.awesomescreenshot.com/video/324600?key=a910dd744378ae62b813f718b47adacd
