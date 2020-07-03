@@ -12,4 +12,4 @@ Steps to upload the assignment file
  os.getcwd()
  ##this will show you the cwd path
  
- Note : if you are unable to open the ipynb fil then please check the PDF file 
+ Note : if you are unable to open the ipynb file then please check the PDF file 
