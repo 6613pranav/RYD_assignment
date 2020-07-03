@@ -14,6 +14,6 @@ Steps to upload the assignment file
  
  Note : if you are unable to open the ipynb file then please check the PDF file 
  
- ## Working of the code is explained briefly in video link below
+ ## Working of the code is explained in video link below
  
  https://www.awesomescreenshot.com/video/324600?key=a910dd744378ae62b813f718b47adacd
